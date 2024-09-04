@@ -1,3 +1,0 @@
-gradio
-stylecloud==0.5.2
-pillow==9.4.0
